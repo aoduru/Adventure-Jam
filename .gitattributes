@@ -26,6 +26,7 @@
 *.rar filter=lfs diff=lfs merge=lfs -text
 *.unitypackage filter=lfs -crlf
 *.zip filter=lfs -crlf
+*.lld filter=lfs
 
 # models and playables
 *.blend filter=lfs -crlf
